@@ -12,9 +12,9 @@ To get started, follow these steps:
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- About
+- Portfolio
+- Contact
 
 ## Contributing
 
